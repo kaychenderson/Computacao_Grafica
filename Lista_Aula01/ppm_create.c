@@ -3,8 +3,8 @@
 int main(){
 
   // dimensoes da imagem
-  int width = 256;
-  int height = 256;
+  int width = 100;
+  int height = 100;
 
   // Configurando o header do formato PPM
   printf("P3\n %d \t %d\n 255\n", width, height);
