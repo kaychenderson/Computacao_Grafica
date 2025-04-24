@@ -14,7 +14,7 @@ void clearImg(){
     for(int i = 0; i < h; i++){
         for(int j = 0; j < w; j++){
             for(int c = 0; c < 3; c++){
-                img[i][j][c] = 256;
+                img[i][j][c] = 255;
             }
         }
     }
