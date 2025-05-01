@@ -1,0 +1,37 @@
+Exercicio: Vetor entre dois pontos
+(2,4) e (6,2): (4, -2)
+(6,7) e (-1,-2): (-7, -9)       
+(2,2,4) e (1,1,1): (-1, -1, -3) 
+(-2,4,-5) e (5,2,-5): (7, -2, 0)
+
+Exercicio: Norma dos vetores       
+Norma (2,-5): 5.39
+Norma (4,2): 4.47
+Norma (3,5,-6): 8.37
+Norma (6,-2,1): 6.40
+
+Exercicio: Deslocamento de ponto   
+(2,-5) + (2,4): (4, -1)
+(3,5,-6) + (-3,2,-3): (0, 7, -9)
+
+Exercicio: Soma e Subtracao
+(2,-5) + (2,4): (4, -1)
+(3,2) - (1,7): (2, -5)
+(3,5,-6) + (-3,2,-3): (0, 7, -9)
+(5,5,1) - (3,1,7): (2, 4, -6)
+
+Exercicio: Multiplicacao por escalar e Normalizacao de vetores
+(2,4) * 3: (6, 12)
+(1,7,5) * -5: (-5, -35, -25)
+Normalizar (12,3): (0.97, 0.24)
+Normalizar (-3,4,-5): (-0.42, 0.57, -0.71)
+
+Exercicio: Produto interno e Vetores unitarios
+Produto interno (2,-4) . (5,3): -2
+Produto interno (1,7,5) . (2,4,5): 55
+Unitario (12,3): (0.97, 0.24)
+Unitario (-3,4,-5): (-0.42, 0.57, -0.71)
+
+Exercicio: Produto vetorial
+Produto vetorial (2,-4,0) x (5,3,0): (0, 0, 26)
+Produto vetorial (1,7,5) x (2,4,5): (15, 5, -10)
